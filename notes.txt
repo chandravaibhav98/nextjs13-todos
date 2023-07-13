@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=NgayZAuTgwM&t=222s
+
+6:08
+npx prisma migrate dev --name init
